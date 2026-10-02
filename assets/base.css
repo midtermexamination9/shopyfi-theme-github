@@ -3514,7 +3514,7 @@ details-disclosure > details {
   animation: rotator 1.4s linear infinite;
 }
 .quardient
-background:lightyellow;
+background: blue;
 @keyframes rotator {
   0% {
     transform: rotate(0deg);
